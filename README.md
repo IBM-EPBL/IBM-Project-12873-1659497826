@@ -3,9 +3,13 @@ Skill / Job Recommender Application
 
 Team ID : PNT2022MID48213
 
-Team Lead: Mahira Barveen.A
+Team Lead: 
+             
+             Mahira Barveen.A
 
-Team Member : Fathima Gani.A
+Team Member : 
+        
+               Fathima Gani.A
 
               Jainuf Raseeba.K
               
