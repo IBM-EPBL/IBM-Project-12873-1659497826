@@ -4,9 +4,13 @@ Skill / Job Recommender Application
 Team ID : PNT2022MID48213
 
 Team Lead: Mahira Barveen.A
+
 Team Member : Fathima Gani.A
+
               Jainuf Raseeba.K
+              
               Nooriya Begam.M
+              
               Kursitha Banu.A
         
 College Name: Syed Ammal Engineering College
