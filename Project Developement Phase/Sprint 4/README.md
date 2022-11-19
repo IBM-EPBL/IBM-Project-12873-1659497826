@@ -31,8 +31,8 @@ Login to apply to job
 Before login the jobseeker and company should register their detail and create their account.
 
 Default jobseeker:
-Mail id: 19cs018@syedengg.co.in
-Password:jainuf
+Mail id: mahira@gmail.com
+Password:mahi
 
 Default Company:
 Mail id: tcs@gmail.com
